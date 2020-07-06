@@ -1,5 +1,5 @@
 ---------
-title: Meu Primeiro Post
+title: "Meu Primeiro Post"
 date: 2020-07-06
 ---------
 
