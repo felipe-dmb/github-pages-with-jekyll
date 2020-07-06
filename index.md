@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Bem vindo ao meu Primeiro Blog
 
-I'm glad you are here. I plan to talk about ...
+Primeira edição no index.
